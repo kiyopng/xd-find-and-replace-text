@@ -1,5 +1,5 @@
 {
-  "name" : "",
+  "name" : "xd-find-and-replace-text",
   "host" : {
     "app" : "XD",
     "minVersion" : "21.0"
