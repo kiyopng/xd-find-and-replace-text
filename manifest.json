@@ -1,5 +1,5 @@
 {
-  "name" : "xd-find-and-replace-text",
+  "name" : "Find-And-Replace-Text",
   "host" : {
     "app" : "XD",
     "minVersion" : "21.0"
@@ -15,8 +15,8 @@
     "height" : 48
   } ],
   "uiEntryPoints" : [ {
-    "type" : "menu",
-    "commandId" : "createRectangle"
+    "type" : "panel",
+    "panelId" : "findAndReplace"
   } ],
   "version" : "0.0.1"
 }
