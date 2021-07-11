@@ -13,17 +13,24 @@
     margin:0.5em 0;
 }
 
-#searchArea{
+#searchArea,
+#replaceArea
+{
     display:flex;
     align-items:flex-start;
     width:100%;
     margin-bottom:20px;
 }
 
-#searchArea input[type="search"]{
+#searchInput,
+#replaceInput{
     width:100%;
     margin:0;
     padding:0;
+}
+
+#replaceInput{
+    padding-left:50px;
 }
 
 #layerPanel {
