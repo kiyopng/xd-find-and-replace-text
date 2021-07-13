@@ -63,6 +63,10 @@
     overflow:hidden;
 }
 
+#layerPanel ul li.searchTarget span{
+    background:linear-gradient(transparent 80%, #fff898 80%);
+}
+
 #layerPanel ul li.childeList {
     padding-left:2em;
 }
